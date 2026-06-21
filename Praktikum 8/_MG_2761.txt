@@ -1,0 +1,234 @@
+[IFD0] 0x013b Artist: Hayesta
+[IFD0] 0x8298 Copyright: @masyesta
+[IFD0] 0x010f Make: Canon
+[IFD0] 0x0110 Model: Canon EOS Kiss X7
+[IFD0] 0x0132 ModifyDate: 2026:03:08 11:19:19
+[IFD0] 0x0128 ResolutionUnit: inches
+[IFD0] 0x0131 Software: Adobe Lightroom 11.2.2 (Android)
+[IFD0] 0x011a XResolution: 300
+[IFD0] 0x011b YResolution: 300
+[ExifIFD] 0x9202 ApertureValue: 10.0
+[ExifIFD] 0xa001 ColorSpace: sRGB
+[ExifIFD] 0x9004 CreateDate: 2026:03:07 18:11:14
+[ExifIFD] 0xa401 CustomRendered: Normal
+[ExifIFD] 0x9003 DateTimeOriginal: 2026:03:07 18:11:14
+[ExifIFD] 0x9000 ExifVersion: 0231
+[ExifIFD] 0x9204 ExposureCompensation: 0
+[ExifIFD] 0xa402 ExposureMode: Manual
+[ExifIFD] 0x8822 ExposureProgram: Manual
+[ExifIFD] 0x829a ExposureTime: 1/125
+[ExifIFD] 0x829d FNumber: 10.0
+[ExifIFD] 0x9209 Flash: Off, Did not fire
+[ExifIFD] 0x920a FocalLength: 24.0 mm
+[ExifIFD] 0xa210 FocalPlaneResolutionUnit: inches
+[ExifIFD] 0xa20e FocalPlaneXResolution: 3436.241611
+[ExifIFD] 0xa20f FocalPlaneYResolution: 3859.296482
+[ExifIFD] 0x8827 ISO: 800
+[ExifIFD] 0xa432 LensInfo: 24-105mm f/?
+[ExifIFD] 0xa434 LensModel: EF24-105mm f/4L IS USM
+[ExifIFD] 0xa435 LensSerialNumber: 00001b5c3d
+[ExifIFD] 0x9205 MaxApertureValue: 4.0
+[ExifIFD] 0x9207 MeteringMode: Multi-segment
+[ExifIFD] 0x9010 OffsetTime: +07:00
+[ExifIFD] 0x9012 OffsetTimeDigitized: +07:00
+[ExifIFD] 0x9011 OffsetTimeOriginal: +07:00
+[ExifIFD] 0x8832 RecommendedExposureIndex: 800
+[ExifIFD] 0xa406 SceneCaptureType: Standard
+[ExifIFD] 0x8830 SensitivityType: Recommended Exposure Index
+[ExifIFD] 0xa431 SerialNumber: 021074007916
+[ExifIFD] 0x9201 ShutterSpeedValue: 1/125
+[ExifIFD] 0x9292 SubSecTimeDigitized: 5
+[ExifIFD] 0x9291 SubSecTimeOriginal: 5
+[ExifIFD] 0xa403 WhiteBalance: Manual
+[Photoshop] 0x0002 DisplayedUnitsX: inches
+[Photoshop] 0x0006 DisplayedUnitsY: inches
+[Photoshop] 0x0425 IPTCDigest: c5983a859b3255aefb5edc10eec8009e
+[Photoshop] 0x0003 Photoshop_Resolution_0x0003: 1
+[Photoshop] 0x0007 Photoshop_Resolution_0x0007: 1
+[IPTC] 0x0000 ApplicationRecordVersion: 4
+[IPTC] 0x0050 By-line: Hayesta
+[IPTC] 0x005a CodedCharacterSet: UTF8
+[IPTC] 0x0074 CopyrightNotice: @masyesta
+[IPTC] 0x003e DigitalCreationDate: 2026:03:07
+[IPTC] 0x003f DigitalCreationTime: 18:11:14+07:00
+[IPTC] 0x003c TimeCreated: 18:11:14
+[ICC-header] 0x002c CMMFlags: Not Embedded, Independent
+[ICC-header] 0x0010 ColorSpaceData: RGB
+[ICC-header] 0x0044 ConnectionSpaceIlluminant: 0.9642 1 0.82491
+[ICC-header] 0x0038 DeviceAttributes: Reflective, Glossy, Positive, Color
+[ICC-header] 0x0030 DeviceManufacturer: Hewlett-Packard
+[ICC-header] 0x0034 DeviceModel: sRGB
+[ICC-header] 0x0028 PrimaryPlatform: Microsoft Corporation
+[ICC-header] 0x0004 ProfileCMMType: Linotronic
+[ICC-header] 0x000c ProfileClass: Display Device Profile
+[ICC-header] 0x0014 ProfileConnectionSpace: XYZ
+[ICC-header] 0x0050 ProfileCreator: Hewlett-Packard
+[ICC-header] 0x0018 ProfileDateTime: 1998:02:09 06:49:00
+[ICC-header] 0x0024 ProfileFileSignature: acsp
+[ICC-header] 0x0054 ProfileID: 0
+[ICC-header] 0x0008 ProfileVersion: 2.1.0
+[ICC-header] 0x0040 RenderingIntent: Perceptual
+[ICC_Profile] - BlueMatrixColumn: 0.14307 0.06061 0.7141
+[ICC_Profile] - BlueTRC: (Binary data 2060 bytes, use -b option to extract)
+[ICC_Profile] - DeviceMfgDesc: IEC http://www.iec.ch
+[ICC_Profile] - DeviceModelDesc: IEC 61966-2.1 Default RGB colour space - sRGB
+[ICC_Profile] - GreenMatrixColumn: 0.38515 0.71687 0.09708
+[ICC_Profile] - GreenTRC: (Binary data 2060 bytes, use -b option to extract)
+[ICC_Profile] - Luminance: 76.03647 80 87.12462
+[ICC_Profile] - MediaBlackPoint: 0 0 0
+[ICC_Profile] - MediaWhitePoint: 0.95045 1 1.08905
+[ICC_Profile] - ProfileCopyright: Copyright (c) 1998 Hewlett-Packard Company
+[ICC_Profile] - ProfileDescription: sRGB IEC61966-2.1
+[ICC_Profile] - RedMatrixColumn: 0.43607 0.22249 0.01392
+[ICC_Profile] - RedTRC: (Binary data 2060 bytes, use -b option to extract)
+[ICC_Profile] - Technology: Cathode Ray Tube Display
+[ICC_Profile] - ViewingCondDesc: Reference Viewing Condition in IEC61966-2.1
+[ICC-view] 0x0008 ViewingCondIlluminant: 19.6445 20.3718 16.8089
+[ICC-view] 0x0020 ViewingCondIlluminantType: D50
+[ICC-view] 0x0014 ViewingCondSurround: 3.92889 4.07439 3.36179
+[ICC-meas] 0x000c MeasurementBacking: 0 0 0
+[ICC-meas] 0x001c MeasurementFlare: 0.999%
+[ICC-meas] 0x0018 MeasurementGeometry: Unknown
+[ICC-meas] 0x0020 MeasurementIlluminant: D65
+[ICC-meas] 0x0008 MeasurementObserver: CIE 1931
+[XMP-x] - XMPToolkit: Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00
+[XMP-xmp] - CreatorTool: Adobe Lightroom 11.2.2 (Android)
+[XMP-xmp] - MetadataDate: 2026:03:08 11:19:19+07:00
+[XMP-dc] - Creator: Hayesta
+[XMP-dc] - Format: image/jpeg
+[XMP-dc] - Rights: @masyesta
+[XMP-aux] - ApproximateFocusDistance: 1.93
+[XMP-aux] - Firmware: 1.0.1
+[XMP-aux] - FlashCompensation: 0
+[XMP-aux] - ImageNumber: 0
+[XMP-aux] - Lens: EF24-105mm f/4L IS USM
+[XMP-aux] - LensID: 237
+[XMP-photoshop] - DateCreated: 2026:03:07 18:11:14.50
+[XMP-xmpMM] - DerivedFromDocumentID: 0F3551F93E6990CA656F8ED06ACFF2AB
+[XMP-xmpMM] - DerivedFromOriginalDocumentID: 0F3551F93E6990CA656F8ED06ACFF2AB
+[XMP-xmpMM] - DocumentID: xmp.did:62b7ddb8-6db1-4227-a374-26dfe1e02d71
+[XMP-xmpMM] - HistoryAction: derived, saved
+[XMP-xmpMM] - HistoryChanged: /
+[XMP-xmpMM] - HistoryInstanceID: xmp.iid:62b7ddb8-6db1-4227-a374-26dfe1e02d71
+[XMP-xmpMM] - HistoryParameters: saved to new location
+[XMP-xmpMM] - HistorySoftwareAgent: Adobe Lightroom 11.2.2 (Android)
+[XMP-xmpMM] - HistoryWhen: 2026:03:08 11:19:19+07:00
+[XMP-xmpMM] - InstanceID: xmp.iid:62b7ddb8-6db1-4227-a374-26dfe1e02d71
+[XMP-xmpMM] - OriginalDocumentID: 0F3551F93E6990CA656F8ED06ACFF2AB
+[XMP-crs] - AlreadyApplied: True
+[XMP-crs] - AutoLateralCA: 0
+[XMP-crs] - Blacks2012: 0
+[XMP-crs] - BlueHue: 0
+[XMP-crs] - BlueSaturation: 0
+[XMP-crs] - CameraProfile: Embedded
+[XMP-crs] - CameraProfileDigest: B852F51E5D7D40FF5B83A689497D3451
+[XMP-crs] - Clarity2012: 0
+[XMP-crs] - ColorGradeBlending: 50
+[XMP-crs] - ColorGradeGlobalHue: 0
+[XMP-crs] - ColorGradeGlobalLum: 0
+[XMP-crs] - ColorGradeGlobalSat: 0
+[XMP-crs] - ColorGradeHighlightLum: 0
+[XMP-crs] - ColorGradeMidtoneHue: 0
+[XMP-crs] - ColorGradeMidtoneLum: 0
+[XMP-crs] - ColorGradeMidtoneSat: 0
+[XMP-crs] - ColorGradeShadowLum: 0
+[XMP-crs] - ColorNoiseReduction: 0
+[XMP-crs] - ColorVariance: -50.000000
+[XMP-crs] - Contrast2012: 0
+[XMP-crs] - ConvertToGrayscale: False
+[XMP-crs] - CropAngle: 0
+[XMP-crs] - CropBottom: 1
+[XMP-crs] - CropConstrainToUnitSquare: 1
+[XMP-crs] - CropConstrainToWarp: 0
+[XMP-crs] - CropLeft: 0
+[XMP-crs] - CropRight: 1
+[XMP-crs] - CropTop: 0
+[XMP-crs] - DefringeGreenAmount: 0
+[XMP-crs] - DefringeGreenHueHi: 60
+[XMP-crs] - DefringeGreenHueLo: 40
+[XMP-crs] - DefringePurpleAmount: 0
+[XMP-crs] - DefringePurpleHueHi: 70
+[XMP-crs] - DefringePurpleHueLo: 30
+[XMP-crs] - Dehaze: 0
+[XMP-crs] - Exposure2012: 0.00
+[XMP-crs] - GrainAmount: 0
+[XMP-crs] - GreenHue: 0
+[XMP-crs] - GreenSaturation: 0
+[XMP-crs] - HDREditMode: 0
+[XMP-crs] - HasCrop: False
+[XMP-crs] - HasSettings: True
+[XMP-crs] - Highlights2012: 0
+[XMP-crs] - HueAdjustmentAqua: 0
+[XMP-crs] - HueAdjustmentBlue: 0
+[XMP-crs] - HueAdjustmentGreen: 0
+[XMP-crs] - HueAdjustmentMagenta: 0
+[XMP-crs] - HueAdjustmentOrange: 0
+[XMP-crs] - HueAdjustmentPurple: 0
+[XMP-crs] - HueAdjustmentRed: 0
+[XMP-crs] - HueAdjustmentYellow: 0
+[XMP-crs] - IncrementalTemperature: 0
+[XMP-crs] - IncrementalTint: 0
+[XMP-crs] - LensManualDistortionAmount: 0
+[XMP-crs] - LensProfileEnable: 0
+[XMP-crs] - LuminanceAdjustmentAqua: 0
+[XMP-crs] - LuminanceAdjustmentBlue: 0
+[XMP-crs] - LuminanceAdjustmentGreen: 0
+[XMP-crs] - LuminanceAdjustmentMagenta: 0
+[XMP-crs] - LuminanceAdjustmentOrange: 0
+[XMP-crs] - LuminanceAdjustmentPurple: 0
+[XMP-crs] - LuminanceAdjustmentRed: 0
+[XMP-crs] - LuminanceAdjustmentYellow: 0
+[XMP-crs] - LuminanceSmoothing: 0
+[XMP-crs] - OverrideLookVignette: False
+[XMP-crs] - ParametricDarks: 0
+[XMP-crs] - ParametricHighlightSplit: 75
+[XMP-crs] - ParametricHighlights: 0
+[XMP-crs] - ParametricLights: 0
+[XMP-crs] - ParametricMidtoneSplit: 50
+[XMP-crs] - ParametricShadowSplit: 25
+[XMP-crs] - ParametricShadows: 0
+[XMP-crs] - PerspectiveAspect: 0
+[XMP-crs] - PerspectiveHorizontal: 0
+[XMP-crs] - PerspectiveRotate: 0.0
+[XMP-crs] - PerspectiveScale: 100
+[XMP-crs] - PerspectiveUpright: Off
+[XMP-crs] - PerspectiveVertical: 0
+[XMP-crs] - PerspectiveX: 0.00
+[XMP-crs] - PerspectiveY: 0.00
+[XMP-crs] - PointColors: -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000
+[XMP-crs] - PostCropVignetteAmount: 0
+[XMP-crs] - ProcessVersion: 15.4
+[XMP-crs] - RawFileName: _MG_2761.JPG
+[XMP-crs] - RedHue: 0
+[XMP-crs] - RedSaturation: 0
+[XMP-crs] - Saturation: 0
+[XMP-crs] - SaturationAdjustmentAqua: 0
+[XMP-crs] - SaturationAdjustmentBlue: 0
+[XMP-crs] - SaturationAdjustmentGreen: 0
+[XMP-crs] - SaturationAdjustmentMagenta: 0
+[XMP-crs] - SaturationAdjustmentOrange: 0
+[XMP-crs] - SaturationAdjustmentPurple: 0
+[XMP-crs] - SaturationAdjustmentRed: 0
+[XMP-crs] - SaturationAdjustmentYellow: 0
+[XMP-crs] - ShadowTint: 0
+[XMP-crs] - Shadows2012: 0
+[XMP-crs] - Sharpness: 0
+[XMP-crs] - SplitToningBalance: 0
+[XMP-crs] - SplitToningHighlightHue: 0
+[XMP-crs] - SplitToningHighlightSaturation: 0
+[XMP-crs] - SplitToningShadowHue: 0
+[XMP-crs] - SplitToningShadowSaturation: 0
+[XMP-crs] - Texture: 0
+[XMP-crs] - ToneCurveName2012: Linear
+[XMP-crs] - ToneCurvePV2012: 0, 0, 255, 255
+[XMP-crs] - ToneCurvePV2012Blue: 0, 0, 255, 255
+[XMP-crs] - ToneCurvePV2012Green: 0, 0, 255, 255
+[XMP-crs] - ToneCurvePV2012Red: 0, 0, 255, 255
+[XMP-crs] - Version: 18.2
+[XMP-crs] - Vibrance: 0
+[XMP-crs] - VignetteAmount: 0
+[XMP-crs] - Whites2012: 0
+[Adobe] 0x0001 APP14Flags0: [14], Encoded with Blend=1 downsampling
+[Adobe] 0x0002 APP14Flags1: (none)
+[Adobe] 0x0003 ColorTransform: YCbCr
+[Adobe] 0x0000 DCTEncodeVersion: 100
